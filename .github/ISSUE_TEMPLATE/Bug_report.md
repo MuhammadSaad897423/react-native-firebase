@@ -177,3 +177,4 @@ Describe your issue here
 ---
 
 - 👉 Check out [`React Native Firebase`](https://twitter.com/rnfirebase) and [`Invertase`](https://twitter.com/invertaseio) on Twitter for updates on the library.
+#### `firebase.json` for react-native-firebase v6 updated:
